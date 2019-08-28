@@ -133,3 +133,11 @@
 ![](/images/common/图片16.png)
 
 ![](/images/common/图片17.png)
+
+## 12\. 客户端配置登录
+ 
+旗舰版堡垒机支持常见客户端,如xshell,Secure CRT.Putty等，配置如下：
+
+![](/images/common/图片38.png)
+
+![](/images/common/图片39.png)
