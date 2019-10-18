@@ -8,10 +8,4 @@
 
 ![](/images/faq_super/忘记密码-运维人员.png)
 
-备注：如果是admin忘记密码：
-
-登录ssh后台控制账号： 端口 55555 默认账号 admin  默认密码 vFr$4mJu&7\!
-
-进入后选择10，重置admin账户配置
-
-![](/images/faq_super/重置admin账户配置.png)
+备注：如果是admin忘记密码,请联系售后人员处理
