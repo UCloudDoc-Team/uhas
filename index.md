@@ -1,4 +1,4 @@
-{{indexmenu_n>8}}
+
 
 # 堡垒机 UAuditHost
 
@@ -6,4 +6,4 @@
 
 **目录**
 
-{{indexmenu>:security:uhas#1|dsort msort nsort}}
+
