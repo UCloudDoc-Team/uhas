@@ -1,6 +1,7 @@
 
 
-# 获取publickey和privatekey
+
+# 如何获取publickey和privatekey
 
 位置：产品与服务-》监控管理-》API密钥
 
