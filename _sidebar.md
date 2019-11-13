@@ -15,7 +15,6 @@
         * [管理员操作](security/uhas/opintro/admin)
         * [运维人员操作](security/uhas/opintro/normal)
         * [用户手册下载](security/uhas/opintro/manual)
-        * [获取publickey和privatekey](security/uhas/opintro/access)
     * [旗舰版用户手册](security/uhas/opintro_super)
     * 升级记录
         * [旗舰版升级包下载](security/uhas/upgrade/super)
@@ -45,7 +44,7 @@
         * [堡垒机添加数据库-配置指导](security/uhas/faq_super/sql)
         * [堡垒机端口设置](security/uhas/faq_super/q20)
         * [堡垒机管理数据库配置指导](security/uhas/faq_super/q18)
-        * [忘记登录密码](security/uhas/faq_super/mima)
+        * [如何获取publickey和privatekey](security/uhas/faq_super/acess.md)
         * [连接超时设置](security/uhas/faq_super/site)
     * 企业版FAQ
         * [功能问题（登录)](security/uhas/faq/q1)
