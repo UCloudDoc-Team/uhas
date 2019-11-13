@@ -15,7 +15,6 @@
     * [管理员操作](security/uhas/opintro/admin)
     * [运维人员操作](security/uhas/opintro/normal)
     * [用户手册下载](security/uhas/opintro/manual)
-    * [获取publickey和privatekey](security/uhas/opintro/access)
 * [旗舰版用户手册](security/uhas/opintro_super)
 * 升级记录
     * [旗舰版升级包下载](security/uhas/upgrade/super)
