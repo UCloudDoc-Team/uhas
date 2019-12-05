@@ -41,7 +41,7 @@
     * [堡垒机绑定谷歌认证](security/uhas/faq_super/freeotp)
     * [随机生成密码的规则是什么？](security/uhas/faq_super/q5)
     * [如何使用手机令牌登录？](security/uhas/faq_super/lingpai)
-    * [堡垒机IP锁定](security/uhas/faq_super/lock)
+    * [堡垒机IP锁定/用户锁定](security/uhas/faq_super/lock)
     * [堡垒机添加数据库-配置指导](security/uhas/faq_super/sql)
     * [堡垒机端口设置](security/uhas/faq_super/q20)
     * [堡垒机管理数据库配置指导](security/uhas/faq_super/q18)
