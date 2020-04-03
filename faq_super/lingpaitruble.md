@@ -8,10 +8,12 @@
 
 1、在堡垒机系统-系统维护模块，选择cn.ntp.org.cn并同步堡垒机时间
 
-![](/images/faq_super/同步时间服务器.png)
+![](/images/同步时间服务器.png)
 
 2、检查并同步手机短时间
 
 3、打开手机小程序，删除小程序目前绑定数据
-![](/images/faq_super/令牌登录页面.jpg)
-![](/images/faq_super/删除令牌绑定信息.jpg)
+
+![](/images//令牌登录页面.png)
+
+![](/images/删除令牌绑定信息.png)
