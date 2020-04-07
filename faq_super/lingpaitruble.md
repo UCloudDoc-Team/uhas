@@ -14,6 +14,6 @@
 
 3、打开手机小程序，删除小程序目前绑定数据
 
-![](/images//令牌登录页面.png)
+![](/images/faq_super/令牌登录页面.jpg)
 
-![](/images/删除令牌绑定信息.png)
+![](/images/faq_super/删除令牌绑定信息.jpg)
