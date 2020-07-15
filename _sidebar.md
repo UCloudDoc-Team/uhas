@@ -6,6 +6,7 @@
     * [名词解释](/uhas/concepts/term)
     * [使用场景](/uhas/concepts/case)
     * [旗舰版产品功能](/uhas/concepts/function)
+    * [齐治堡垒机产品功能](/uhas/concepts/qizhifunction)
 * [架构和原理简介](/uhas/architecture)
 * 快速上手
     * [旗舰版快速上手](/uhas/common/super)
