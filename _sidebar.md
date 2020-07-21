@@ -25,6 +25,8 @@
     * [计费模式](/uhas/price/mode)
     * [产品价格](/uhas/price/jiage)
 * [使用注意事项](/uhas/warning)
+* 齐治版FAQ
+    * [功能问题（登录)](/uhas/faq_super/q1)
 * 旗舰版FAQ
     * [功能问题（登录)](/uhas/faq_super/q1)
     * [功能问题（文件管理)](/uhas/faq_super/q3)
