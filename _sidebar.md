@@ -10,7 +10,7 @@
 * [架构和原理简介](/uhas/architecture)
 * 快速上手
     * [旗舰版快速上手](/uhas/common/super)
-    * [企业版快速上手](/uhas/common/pro)
+    * [齐治堡垒机快速上手](/uhas/common/pro)
 * 企业版操作指南
     * [控制台](/uhas/opintro/console)
     * [连接工具](/uhas/opintro/tools)
@@ -26,7 +26,7 @@
     * [产品价格](/uhas/price/jiage)
 * [使用注意事项](/uhas/warning)
 * 齐治版FAQ
-    * [功能问题（登录)](/uhas/faq_super/q1)
+    * [功能问题（登录)](/uhas/faq_qizhi/q1)
 * 旗舰版FAQ
     * [功能问题（登录)](/uhas/faq_super/q1)
     * [功能问题（文件管理)](/uhas/faq_super/q3)
