@@ -26,7 +26,13 @@
     * [产品价格](/uhas/price/jiage)
 * [使用注意事项](/uhas/warning)
 * 齐治版FAQ
-    * [功能问题（登录)](/uhas/ceshi/q1)
+    * [功能问题（登录)](/uhas/faq_qizhi/q1)
+    * [功能问题（用户管理)](/uhas/faq_qizhi/q2)
+    * [功能问题（资产管理)](/uhas/faq_qizhi/q3)   
+    * [功能问题（权限管理)](/uhas/faq_qizhi/q4)
+    * [功能问题（资产访问)](/uhas/faq_qizhi/q5)
+    * [功能问题（审计)](/uhas/faq_qizhi/q6)
+    * [功能问题（账号管理)](/uhas/faq_qizhi/q7)
 * 旗舰版FAQ
     * [功能问题（登录)](/uhas/faq_super/q1)
     * [功能问题（文件管理)](/uhas/faq_super/q3)
