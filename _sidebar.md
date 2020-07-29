@@ -18,6 +18,7 @@
     * [运维人员操作](/uhas/opintro/normal)
     * [用户手册下载](/uhas/opintro/manual)
 * [旗舰版用户手册](/uhas/opintro_super)
+* [齐治堡垒机用户手册](/uhas/opintro_qizhi)
 * 升级记录
     * [旗舰版升级包下载](/uhas/upgrade/super)
     * [企业版升级记录](/uhas/upgrade/pro)
