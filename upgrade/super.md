@@ -11,7 +11,7 @@
 ![](/images/upgrade/3.x最新版本升级指导图.png)
 
 ### 旗舰版堡垒机--3.X版本升级包下载
-[旗舰版堡垒机3.3.8.0\_to\_3.4.7.0版本升级包](http://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.3.0.0_to_3.3.8.0_x86_64_2020-01-12.tar)
+[旗舰版堡垒机3.3.8.0\_to\_3.4.7.0版本升级包](http://uhas2017.cn-gd.ufileos.com/bastionhost_upgrade_3.3.8.0_to_3.4.7.0_x86_64_20200831_full.tar)
 
 [旗舰版堡垒机3.3.0.0\_to\_3.3.8.0版本升级包](http://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.3.0.0_to_3.3.8.0_x86_64_2020-01-12.tar)
 
