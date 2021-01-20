@@ -47,6 +47,7 @@
     * [应用环境和兼容性](/uhas/faq_super/q2)
     * [检测堡垒机与主机之间的（网络连通性)](/uhas/faq_super/q11)
     * [如何升级新版本](/uhas/faq_super/q4)
+    * [用户多因子设置](/uhas/faq_super/authentication)
     * [堡垒机绑定谷歌认证](/uhas/faq_super/freeotp)
     * [随机生成密码的规则是什么？](/uhas/faq_super/q5)
     * [如何使用手机令牌登录？](/uhas/faq_super/lingpai)
