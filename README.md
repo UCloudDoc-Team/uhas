@@ -49,6 +49,7 @@
     * [堡垒机管理数据库配置指导](/uhas/faq_super/q18)
     * [如何获取publickey和privatekey](/uhas/faq_super/acess.md)
     * [连接超时设置](/uhas/faq_super/site)
+    * [堡垒机数据盘使用计算](/uhas/faq_super/shujupan)
 * 企业版FAQ
     * [功能问题（登录)](/uhas/faq/q1)
     * [功能问题（连接工具)](/uhas/faq/q2)
