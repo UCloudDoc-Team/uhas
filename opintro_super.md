@@ -8,7 +8,7 @@
 堡垒机添加数据库管理指导：
 [数据库配置与管理手册.docx](https://uhas2017.cn-gd.ufileos.com/堡垒机添加数据库管理配置指导.pdf)
 
-堡垒机添加SFTP资源和使用指导：（用于文件传输）
+堡垒机添加SFTP资源和使用指导：（用于大文件传输）
 [旗舰版堡垒机sftp资源创建及使用.pdf](https://uhas2017.cn-gd.ufileos.com/sftp资源创建及使用.pdf)
 
 堡垒机3.4.8.0版本用户手册：
