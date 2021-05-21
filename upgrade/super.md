@@ -15,20 +15,21 @@
 ![](/images/upgrade/3.x最新版本升级指导图.png)
 
 ### 旗舰版堡垒机--3.X版本升级包下载
-[旗舰版堡垒机3.3.8.0\_to\_3.4.8.0版本升级包](http://uhas2017.cn-gd.ufileos.com/bastionhost_upgrade_3.3.8.0_to_3.4.8.0_x86_64_20201109_full.tar
+[旗舰版堡垒机3.3.8.0\_to\_3.4.8.0版本升级包](https://uhas2017.cn-gd.ufileos.com/bastionhost_upgrade_3.3.8.0_to_3.4.8.0_x86_64_20201109_full.tar
 )
 
-[旗舰版堡垒机3.3.0.0\_to\_3.3.8.0版本升级包](http://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.3.0.0_to_3.3.8.0_x86_64_2020-01-12.tar)（全量升级包：3.3.04-3.3.6.0版本升级到3.3.8都可使用该升级包）
+[旗舰版堡垒机3.3.0.0\_to\_3.3.8.0版本升级包](https://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.3.0.0_to_3.3.8.0_x86_64_2020-01-12.tar)（全量升级包：3.3.04-3.3.6.0版本升级到3.3.8都可使用该升级包）
 
 [旗舰版堡垒机3.3.0.0\_to\_3.3.0.4版本升级包](https://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.3.0.0_to_3.3.0.4_2019-11-21.tar)
 
-[旗舰版堡垒机3.2.14.1\_to\_3.3.0.0版本升级包](http://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.2.14.1_to_3.3.0.0_UCloud_2019-05-14)
+[旗舰版堡垒机3.2.14.1\_to\_3.3.0.0版本升级包](https://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.2.14.1_to_3.3.0.0_UCloud_2019-05-14)
 
-[旗舰版堡垒机3.2.14.0\_to\_3.2.14.1版本升级包](http://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.2.14.0_to_3.2.14.1_yunanbao_2019-04-30)
+[旗舰版堡垒机3.2.14.0\_to\_3.2.14.1版本升级包](https://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.2.14.0_to_3.2.14.1_yunanbao_2019-04-30)
 
-[旗舰版堡垒机3.2.8.0\_to\_3.2.14版本升级包](http://uhas2017.ufile.ucloud.com.cn/堡垒机_upgrade_3.2.0.0_to_3.2.14.0_UCloud_2019-02-01)
+[旗舰版堡垒机3.2.8.0\_to\_3.2.14版本升级包](https://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.2.0.0_to_3.2.14.0_UCloud_2019-02-01)
 
-[旗舰版堡垒机3.2.0.0\_to\_3.2.8版本升级包](http://uhas2017.ufile.ucloud.com.cn/%E5%A0%A1%E5%9E%92%E6%9C%BA_upgrade_3.2.0.0_to_3.2.8.0_UCloud_2018-11-19)
+[旗舰版堡垒机3.2.0.0\_to\_3.2.8版本升级包](https://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.2.0.0_to_3.2.8.0_UCloud_2018-11-19)
+
 
 ### 版本号：3.3.8.0升级3.4.8.0功能说明
 
