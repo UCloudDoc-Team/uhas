@@ -25,7 +25,7 @@
 
 [旗舰版堡垒机3.2.14.0\_to\_3.2.14.1版本升级包](https://uhas2017.cn-gd.ufileos.com/yunxiazi_upgrade_3.2.14.0_to_3.2.14.1_yunanbao_2019-04-30)
 
-[旗舰版堡垒机3.2.8.0\_to\_3.2.14.0版本升级包](http://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.2.8.0_to_3.2.14.0_UCloud_2019-02-01.lnk)
+[旗舰版堡垒机3.2.8.0\_to\_3.2.14.0版本升级包](https://uhas2017.cn-gd.ufileos.com/yunxiazi_upgrade_3.2.8.0_to_3.2.14.0_UCloud_2019-02-01)
 
 [旗舰版堡垒机3.2.0.0\_to\_3.2.8.0版本升级包](https://uhas2017.cn-gd.ufileos.com/堡垒机_upgrade_3.2.0.0_to_3.2.8.0_UCloud_2018-11-19)
 ### 版本号：3.3.8.0升级3.4.8.0功能说明
