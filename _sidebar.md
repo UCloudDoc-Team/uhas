@@ -5,34 +5,16 @@
     * [名词解释](/uhas/concepts/term)
     * [使用场景](/uhas/concepts/case)
     * [旗舰版堡垒机产品功能](/uhas/concepts/function)
-    * [齐治堡垒机产品功能](/uhas/概念/qizhifunction.md)
 * [架构和原理简介](/uhas/architecture)
 * 快速上手
     * [旗舰版快速上手](/uhas/common/super)
-    * [齐治堡垒机快速上手](/uhas/common/pro)
-* 企业版操作指南
-    * [控制台](/uhas/opintro/console)
-    * [连接工具](/uhas/opintro/tools)
-    * [管理员操作](/uhas/opintro/admin)
-    * [运维人员操作](/uhas/opintro/normal)
-    * [用户手册下载](/uhas/opintro/manual)
 * [旗舰版用户手册](/uhas/opintro_super)
-* [齐治堡垒机用户手册](/uhas/opintro_qizhi)
 * 升级记录
     * [旗舰版升级包下载](/uhas/upgrade/super)
-    * [企业版升级记录](/uhas/upgrade/pro)
 * 产品价格
     * [计费模式](/uhas/price/mode)
     * [产品价格](/uhas/price/jiage)
 * [使用注意事项](/uhas/warning)
-* 齐治版FAQ
-    * [功能问题（登录)](/uhas/faq_qizhi/q1)
-    * [功能问题（用户管理)](/uhas/faq_qizhi/q2)
-    * [功能问题（资产管理)](/uhas/faq_qizhi/q3)   
-    * [功能问题（权限管理)](/uhas/faq_qizhi/q4)
-    * [功能问题（资产访问)](/uhas/faq_qizhi/q5)
-    * [功能问题（审计)](/uhas/faq_qizhi/q6)
-    * [功能问题（账号管理)](/uhas/faq_qizhi/q7)
 * 旗舰版FAQ
     * [功能问题（登录)](/uhas/faq_super/q1)
     * [功能问题（文件管理)](/uhas/faq_super/q3)
@@ -60,15 +42,8 @@
     * [连接超时设置](/uhas/faq_super/site)
     * [堡垒机数据盘维护](/uhas/faq_super/shujupan)
     * [堡垒机登录安全](/uhas/faq_super/denglu)
-* 企业版FAQ
-    * [功能问题（登录)](/uhas/faq/q1)
-    * [功能问题（连接工具)](/uhas/faq/q2)
-    * [功能问题（导入主机)](/uhas/faq/q3)
-    * [功能问题（账户与权限)](/uhas/faq/q4)
-    * [功能问题（审计)](/uhas/faq/q5)
-    * [如何升级新版本](/uhas/faq/q9)
-    * [应用环境和兼容性](/uhas/faq/q10)
-    * [登录超时设置](/uhas/faq/q11)
+    
+    
     
     
     
