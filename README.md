@@ -11,17 +11,9 @@
 * [架构和原理简介](/uhas/architecture)
 * 快速上手
     * [旗舰版快速上手](/uhas/common/super)
-    * [企业版快速上手](/uhas/common/pro)
-* 企业版操作指南
-    * [控制台](/uhas/opintro/console)
-    * [连接工具](/uhas/opintro/tools)
-    * [管理员操作](/uhas/opintro/admin)
-    * [运维人员操作](/uhas/opintro/normal)
-    * [用户手册下载](/uhas/opintro/manual)
 * [旗舰版用户手册](/uhas/opintro_super)
 * 升级记录
     * [旗舰版升级包下载](/uhas/upgrade/super)
-    * [企业版升级记录](/uhas/upgrade/pro)
 * 产品价格
     * [计费模式](/uhas/price/mode)
     * [产品价格](/uhas/price/jiage)
@@ -51,14 +43,7 @@
     * [连接超时设置](/uhas/faq_super/site)
     * [堡垒机数据维护](/uhas/faq_super/shujupan)
     * [堡垒机登录安全](/uhas/faq_super/denglu)
-* 企业版FAQ
-    * [功能问题（登录)](/uhas/faq/q1)
-    * [功能问题（连接工具)](/uhas/faq/q2)
-    * [功能问题（导入主机)](/uhas/faq/q3)
-    * [功能问题（账户与权限)](/uhas/faq/q4)
-    * [功能问题（审计)](/uhas/faq/q5)
-    * [如何升级新版本](/uhas/faq/q9)
-    * [应用环境和兼容性](/uhas/faq/q10)
-    * [登录超时设置](/uhas/faq/q11)
+    
+    
     
     
