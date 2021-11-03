@@ -6,7 +6,7 @@
 
 进入控制台，选择【产品与服务】-【安全合规】-【堡垒机 UHAS】-【创建堡垒机】。
 
-![](/images/opintro_super/create_ultimate_uhas.png)
+![](/images/common/create_ultimate_uhas.png)
 
 -----
 
@@ -14,7 +14,7 @@
 
 堡垒机能够管理同一个可用区的主机，因此需要先选择需要在哪个可用区添加堡垒机
 
-![](/images/ultimate_region.png)
+![](/images/common/ultimate_region.png)
 
 ## 2\. 创建堡垒机
 
