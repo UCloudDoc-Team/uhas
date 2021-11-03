@@ -4,9 +4,9 @@
 
 [旗舰版堡垒机3.X快速入手手册](http://uhas2017.cn-gd.ufileos.com/旗舰版堡垒机3.X快速入门.pdf)
 
-进入控制台，选择【产品与服务】-【安全合规】-【堡垒机 UHAS】-【旗舰版】。
+进入控制台，选择【产品与服务】-【安全合规】-【堡垒机 UHAS】-【创建堡垒机】。
 
-![](/images/opintro_super/购买旗舰版堡垒机.png)
+![](/images/opintro_super/create_ultimate_uhas.png)
 
 -----
 
@@ -14,7 +14,7 @@
 
 堡垒机能够管理同一个可用区的主机，因此需要先选择需要在哪个可用区添加堡垒机
 
-![](/images/region.png)
+![](/images/ultimate_region.png)
 
 ## 2\. 创建堡垒机
 
@@ -26,19 +26,21 @@
 
 500资产版：可管理最多500台主机，主机可以是云内或者云外的，包括UCloud、阿里云、腾讯云、AWS等云上的主机。
 
-![](/images/common/创建旗舰版1.png)
+1000资产版：可管理最多1000台主机，主机可以是云内或者云外的，包括UCloud、阿里云、腾讯云、AWS等云上的主机。
+
+![](/images/common/create_ultimate1.png)
 
 选择EIP，跟绑定防火墙，建议选择默认的堡垒机防火墙，放行33890、22222、80、55555、443端口，如果还有其他端口需要放行，建议到防火墙产品中设置好后，回到堡垒机控制台中修改为自定义的防火墙。
 
-![](/images/common/创建旗舰版2.png)
+![](/images/common/create_ultimate2.png)
 
 填写堡垒机名称，可以不设置，使用默认的名称。或者自定义一个名字，支持中文或者英文。付费购买成功后就可以开始使用堡垒机了。
 
-![](/images/common/创建旗舰版3.png)
+![](/images/common/create_ultimate3.png)
 
 ## 3\. 查看堡垒机列表信息
 
-![](/images/list.png)
+![](/images/ultimate_list.png)
 
 列表中列出所有已经购买的堡垒机信息：
 
@@ -56,9 +58,8 @@
 
 2、如果无法打开管理系统，请检查防火墙是否开了443端口
 
-3、如果打开管理系统报不安全，请绑定域名。
 
-![](/images/common/绑定域名.png)
+![](/images/common/ultimate_manage.png)
 
 ## 5\. 登录堡垒机管理系统
 
