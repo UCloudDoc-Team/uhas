@@ -23,5 +23,3 @@
 堡垒机3.0版本的用户手册：
 [UCloud堡垒机（旗舰版）用户手册V3.0.pdf](https://uhas2017.cn-gd.ufileos.com/%E6%97%97%E8%88%B0%E7%89%88%E5%A0%A1%E5%9E%92%E6%9C%BA%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C_3.0.pdf)
 
-堡垒机2.X版本的用户手册：
-[UCloud堡垒机（旗舰版）用户手册V2.X.pdf](https://uhas2017.ufile.ucloud.com.cn/UCloud%E5%A0%A1%E5%9E%92%E6%9C%BA%EF%BC%88%E6%97%97%E8%88%B0%E7%89%88%EF%BC%89%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8CV1.0.0.pdf)
