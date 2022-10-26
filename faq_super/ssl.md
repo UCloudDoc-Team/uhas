@@ -4,7 +4,7 @@
 
     2、域名及域名证书的停用，不影响堡垒机默认通过IP进行管理
 
-Web域名证书格式：JKS
+Web域名证书格式：JKS,证书上传后请重启堡垒机
 
 证书格式转换地址参考：https://docs.ucloud.cn/ussl/faq/certificateconvert
  
