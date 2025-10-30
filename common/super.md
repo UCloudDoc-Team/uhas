@@ -40,7 +40,7 @@
 
 ## 3\. 查看堡垒机列表信息
 
-![](/images/ultimate_list.png)
+![](/images/common/ultimate_list.png)
 
 列表中列出所有已经购买的堡垒机信息：
 
